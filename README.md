@@ -1,1 +1,1 @@
-# simplegrid2023
+# simple-grid2023
